@@ -1,4 +1,6 @@
-# BITCOIN WALLET
+# TO BE A GOSTCOIN WALLET FOR ANDROID
+
+## OLD INFO BELOW. TO BE EDITED AT LOW PRIORITY; THE EXECUTABLE SOURCE CODE NEEDED FIRST.
 
 Welcome to _Bitcoin Wallet_, a standalone Bitcoin payment app for your Android device!
 
